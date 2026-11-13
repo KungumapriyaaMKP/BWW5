@@ -1,4 +1,4 @@
-/* Ananya & Rohan — wedding invitation (vanilla JS port of the original React app) */
+/* Raj & Priya — wedding invitation (vanilla JS port of the original React app) */
 (function () {
   "use strict";
 
